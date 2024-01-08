@@ -3,7 +3,7 @@
 ### Hi everyone I'm Tran Minh Phu, a full-time Software Developer 👨‍💻 working since 2020 🚀  
   
 
-- 🔭 I’m currently working on [Github](https://github.com/trminhphu79)  
+- 🔭 I’m currently working at [VNG](https://vng.com.vn/)  
   
 
 - 🌱 I’m currently learning Unity Game  
