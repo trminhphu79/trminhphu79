@@ -6,7 +6,7 @@
 - 🔭 I’m currently working at [VNG](https://vng.com.vn/)  
   
 
-- 🌱 I’m currently learning Unity Game 
+- 🌱 I’m currently learning Unity Engine 
   
 
 - ❓ Ask me about anything related to MEAN stack and related technologies  
