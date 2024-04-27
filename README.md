@@ -4,14 +4,6 @@
   
 
 - 🔭 I’m currently working at [VNG](https://vng.com.vn/)  
-  
-
-- 🌱 I’m currently learning Unity Game Engine
-  
-
-- ❓ Ask me about anything related to MEAN stack and related technologies  
-  
-
 <br/>  
 
 
@@ -76,10 +68,6 @@
   
 
 <br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=trminhphu79&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
